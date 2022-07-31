@@ -1,0 +1,27 @@
+{
+	"name": "VR Shopping Store",
+	"short_name": "VR Inside",
+	"description": "This app will enable users to have 3D shopping experience through VR Headsets",
+	"icons": [
+		{
+			"src": "img/icons/vr-glasses_64.png",
+			"sizes": "64x64",
+			"type": "image/png"
+		},
+		{
+			"src": "img/icons/vr-glasses_128.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "img/icons/vr-glasses_512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}		
+	],
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"background_color": "#3867d6",
+	"theme_color": "#FF9800",
+	"orientation": "landscape"  
+}
